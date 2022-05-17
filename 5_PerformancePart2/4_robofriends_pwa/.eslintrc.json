@@ -1,0 +1,7 @@
+{
+  "parser": "babel-eslint",
+  "rule": {
+    // "no-console": "warn"
+    "no-console": "error"
+  }
+}
